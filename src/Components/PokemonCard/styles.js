@@ -29,3 +29,7 @@ export const EvolveButton = styled.button`
     box-shadow: 0 6px 30px -10px #000000;
 
 `
+export const ImagemStyle = styled.img`
+  width: 250px;
+  height: 250px;
+`
